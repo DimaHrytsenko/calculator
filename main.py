@@ -116,4 +116,4 @@ while True:
             log_(num1, num2)
 
     else:
-        print('\nIncorrect input\n')
+        print('\nIncorrect function\n')
